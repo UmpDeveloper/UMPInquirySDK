@@ -13,7 +13,7 @@
 
 Pod::Spec.new do |spec|
 
-  spec.name         = "InquirySDK"
+  spec.name         = "UMPInquirySDK"
   spec.version      = "1.0.0"
   spec.summary      = "Video consultation SDK."
   spec.description  = "Start to initialize SDK"
