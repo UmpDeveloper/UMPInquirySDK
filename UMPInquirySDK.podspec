@@ -18,7 +18,7 @@ Pod::Spec.new do |spec|
   spec.summary      = "Video consultation SDK."
   spec.description  = "Start to initialize SDK"
 
-  spec.homepage     = "https://github.com/LengQH/UMPInquirySDK"
+  spec.homepage     = "https://github.com/UmpDeveloper/UMPInquirySDK"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -30,7 +30,7 @@ Pod::Spec.new do |spec|
  
 
 
-  spec.source       = { :git => "https://github.com/LengQH/UMPInquirySDK.git", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://github.com/UmpDeveloper/UMPInquirySDK.git", :tag => "#{spec.version}" }
 
 
   spec.source_files = "**/UMPInquirySDK/*.{h}"
