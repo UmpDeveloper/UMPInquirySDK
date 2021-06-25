@@ -4,7 +4,7 @@
 //
 //  Created by Larry.Leng on 2021/5/24.
 //
-//  Version: 1.0.5
+//  Version: 1.0.6
 
 
 #import <UIKit/UIKit.h>
