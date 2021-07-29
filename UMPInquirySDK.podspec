@@ -23,7 +23,7 @@ Pod::Spec.new do |spec|
 
 
   spec.license      = { :type => "MIT", :file => "LICENSE" }
-  spec.author       = { "Larry.Leng" => "larry.leng@ump.com.hk" }
+  spec.author       = { "lizongkai" => "510345422@qq.com" }
   spec.platform     = :ios, "9.0" 
   spec.ios.deployment_target = "9.0"
   spec.xcconfig     = { 'VALID_ARCHS' => 'armv7 arm64' }
